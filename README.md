@@ -1,4 +1,4 @@
-# Underwater Cybersecurity Research – 99.33/100 Peer Review
+# Underwater Cybersecurity Research 
 
 This repository contains my research paper titled “Security Challenges in the Internet of Underwater Things (IoUT)”, completed as part of my studies at SLIIT. It was awarded an exceptional peer-review score of 99.33/100 🌟
 
